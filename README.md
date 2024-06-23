@@ -1,4 +1,4 @@
-[MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)
+[[MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)]
 
 <h1 align="center">Hi 👋, I'm Tanishque Sharma</h1>
 <h3 align="center">A passionate computer science enthusiast currently in the final year of my BTech in Computer Science specialization in AI & ML.</h3>
